@@ -26,7 +26,6 @@ namespace Abzanov_Avtoservice
         }
 
 
-
         public AbzanovAvtoservisEntities()
             : base("name=AbzanovAvtoservisEntities")
         {
